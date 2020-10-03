@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+Song 
+{
+	display:block; 
+	border-bottom:1px solid #5B955F;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-family: Verdana;
+	line-height: 1.5em;
+}
+SongNumber
+{
+	font-size: 20px; 
+	font-weight: 600;
+}
+SongNumber:after
+{
+	content:".";
+}
+Title
+{
+	font-size: 20px; 
+	font-weight: 600;
+}
+Title:hover
+{
+	color: green;
+}
+Artist:before 
+{
+	content:"Artist: "; 
+	font-size: 17px; 
+}
+Artist
+{
+	display:block;
+	font-size: 17px; 
+}
+Genre:before 
+{
+	content:"Genre: "; 
+	font-size: 17px; 
+}
+Genre
+{
+	display:block;
+	font-size: 17px; 
+}
+ReleaseYear:before 
+{
+	content:"Released: ";
+	font-size: 17px;  
+}
+ReleaseYear
+{
+	display:block;
+	font-size: 17px; 
+}

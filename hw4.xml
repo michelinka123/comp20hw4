@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "hw4style.css" ?>
+<SetList>
+	<Song>
+		<SongNumber>1</SongNumber>
+		<Title>Ain't No Sunshine</Title>
+		<Artist>Bill Withers</Artist>
+		<Genre>Classic Soul</Genre>
+		<ReleaseYear>1971</ReleaseYear>
+	</Song>
+	<Song>
+		<SongNumber>2</SongNumber>
+		<Title>Goodbye Yellow Brick Road</Title>
+		<Artist>Elton John</Artist>
+		<Genre>Classic Rock</Genre>
+		<ReleaseYear>1973</ReleaseYear>
+	</Song>
+	<Song>
+		<SongNumber>3</SongNumber>
+		<Title>Happy Together</Title>
+		<Artist>Turtles</Artist>
+		<Genre>Classic Rock</Genre>
+		<ReleaseYear>1967</ReleaseYear>
+	</Song>
+	<Song>
+		<SongNumber>4</SongNumber>
+		<Title>Help!</Title>
+		<Artist>The Beatles</Artist>
+		<Genre>Classic Rock</Genre>
+		<ReleaseYear>1965</ReleaseYear>
+	</Song>
+	<Song>
+		<SongNumber>5</SongNumber>
+		<Title>I Just Called To Say I Love You</Title>
+		<Artist>Stevie Wonder</Artist>
+		<Genre>Classic Soul</Genre>
+		<ReleaseYear>1984</ReleaseYear>
+	</Song>
+	<Song>
+		<SongNumber>6</SongNumber>
+		<Title>September</Title>
+		<Artist>Earth, Wind and Fire</Artist>
+		<Genre>Disco</Genre>
+		<ReleaseYear>1978</ReleaseYear>
+	</Song>
+	<Song>
+		<SongNumber>7</SongNumber>
+		<Title>Do You Believe in Magic</Title>
+		<Artist>The Lovin' Spoonful</Artist>
+		<Genre>Folk Rock</Genre>
+		<ReleaseYear>1965</ReleaseYear>
+	</Song>
+	<Song>
+		<SongNumber>8</SongNumber>
+		<Title>Time of the Season</Title>
+		<Artist>Zombies</Artist>
+		<Genre>Pop Rock</Genre>
+		<ReleaseYear>1968</ReleaseYear>
+	</Song>
+	<Song>
+		<SongNumber>9</SongNumber>
+		<Title>Sunny Afternoon</Title>
+		<Artist>The Kinks</Artist>
+		<Genre>Classic Rock</Genre>
+		<ReleaseYear>1966</ReleaseYear>
+	</Song>
+	<Song>
+		<SongNumber>10</SongNumber>
+		<Title>Smooth</Title>
+		<Artist>Santana</Artist>
+		<Genre>Latin Rock</Genre>
+		<ReleaseYear>1999</ReleaseYear>
+	</Song>
+
+</SetList>
